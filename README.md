@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 # 🚲 Bikeshare Data Analysis
 
 ### 📅 Date created
@@ -37,3 +35,6 @@ The following resources were used for reference and learning:
 - [Pandas Documentation](https://pandas.pydata.org/docs/) – for data manipulation and analysis  
 - [NumPy Documentation](https://numpy.org/doc/) – for numerical operations  
 - [Python Official Documentation](https://docs.python.org/3/) – for general Python reference 
+
+### Author
+Sergiu Conovalu
